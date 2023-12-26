@@ -38,5 +38,5 @@ class insert_atany_positions {
     }
 }
 
-// This code is contributed by syedsarfarazahammed
+// This code is contributed by MANISHyadav14
 
